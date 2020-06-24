@@ -2,9 +2,11 @@ from PIL import Image
 from resizeimage import resizeimage
 
 minimo = 200
-menor = 460
-medio = 960
-maior = 1040
+menor = 320
+medio = 480
+maior = 640
+gigante = 800
+xgigante = 1400
 
 
 for i in range(0, 29):
@@ -12,7 +14,9 @@ for i in range(0, 29):
         f"minimo/imagem{i}-{minimo}x{minimo}.jpg",
         f"menor/imagem{i}-{menor}x{menor}.jpg",
         f"medio/imagem{i}-{medio}x{medio}.jpg",
-        f"maior/imagem{i}-{maior}x{maior}.jpg"
+        f"maior/imagem{i}-{maior}x{maior}.jpg",
+        f"gigante/imagem{i}-{gigante}x{gigante}.jpg",
+        f"xgigante/imagem{i}-{xgigante}x{xgigante}.jpg"
     ]
     origem = f"imagem{i}.jpg"
 
