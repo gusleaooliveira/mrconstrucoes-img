@@ -1,0 +1,20 @@
+--2020-07-20 16:51:29--  https://www.facebook.com/media/set/?vanity=MRConstrucoes2016
+Resolvendo www.facebook.com (www.facebook.com)... 2a03:2880:f148:82:face:b00c:0:25de, 157.240.222.35
+Conectando-se a www.facebook.com (www.facebook.com)|2a03:2880:f148:82:face:b00c:0:25de|:443... conectado.
+A requisição HTTP foi enviada, aguardando resposta... 302 Found
+Localização: https://www.facebook.com/unsupportedbrowser [redirecionando]
+--2020-07-20 16:51:30--  https://www.facebook.com/unsupportedbrowser
+Reaproveitando a conexão existente para [www.facebook.com]:443.
+A requisição HTTP foi enviada, aguardando resposta... 200 OK
+Tamanho: não especificada [text/html]
+Salvando em: “temp/index.html?vanity=MRConstrucoes2016.1.tmp”
+
+index.html?vanity=MRConstrucoes2016.1     [<=>                                                                    ]       0  --.-KB/s               index.html?vanity=MRConstrucoes2016.1     [ <=>                                                                   ] 132,94K  --.-KB/s    em 0,1s    
+
+2020-07-20 16:51:30 (946 KB/s) - “temp/index.html?vanity=MRConstrucoes2016.1.tmp” salvo [136133]
+
+Removendo temp/index.html?vanity=MRConstrucoes2016.1.tmp já que ele deveria ser rejeitado.
+
+FINALIZADO --2020-07-20 16:51:30--
+Tempo total decorrido: 0,6s
+Baixados: 1 arquivos, 133K em 0,1s (946 KB/s)
